@@ -1,4 +1,4 @@
-[Final_Project_Report.pdf](https://github.com/user-attachments/files/31154908/Final_Project_Report.pdf)# BayMax_Project# Baymax Version 0 🤖
+# BayMax_Project# Baymax Version 0 🤖
 
 Baymax Version 0 is a healthcare companion robot inspired by Baymax from *Big Hero 6*. The goal of the project is to create a small and affordable robot that can help with basic healthcare needs when seeing a doctor or nurse isn't necessary or easily accessible.
 
